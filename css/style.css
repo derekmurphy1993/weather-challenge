@@ -1,0 +1,55 @@
+body {
+  background: rgb(2,0,36);
+  background: linear-gradient(135deg, rgba(2,0,36,1) 0%, rgba(203,109,56,1) 0%, rgba(146,50,44,1) 100%);
+}
+
+.main{
+  height: 90vmax;
+  width: 90vmax;
+  margin: auto;
+}
+
+.display-image {
+  background-color: #eda997;
+  width: 38vw;
+  height: 90vh;
+  padding: 0;
+  float: left;
+  position:relative;
+}
+
+.display-text {
+  border: 0;
+  margin: 0;
+  text-align: center;
+  position:absolute;
+        top: 50%;
+        left:50%;
+}
+
+.info {
+  background-color: #2b3746;
+  width: 50vw;
+  height: 90vh;
+  padding: 0;
+  float: left;
+}
+
+.form-adjustment {
+  float: left;
+  background-color: rgba(255, 0, 0, 0);
+  margin: rgba(255, 0, 0, 0);
+  margin-bottom: rgba(255, 0, 0, 1);
+  color: rgba(0, 0, 0, 0);
+}
+
+.submit-button {
+  background-color: #d2524f;
+  float: left;
+  border: 2px solid #496b9b; 
+}
+
+
+.info-results{
+
+}
